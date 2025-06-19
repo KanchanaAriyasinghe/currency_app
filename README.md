@@ -3,13 +3,6 @@
 GlobeXchange is a full-stack web application that enables users to convert currencies using real-time and historical exchange rate data. Built using React.js on the frontend and Node.js + Express.js on the backend, the app integrates with the Open Exchange Rates API to provide fast, accurate, and user-friendly currency conversions.
 
 
-
-##  Live Demo
-
-_Coming soon (if deployed)_
-
----
-
 ##  Features
 
 -  Real-time and historical currency conversion
